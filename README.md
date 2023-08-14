@@ -8,3 +8,10 @@
 3.使用 numpy、pandas、json 等python 模組進行資料前處理  
 4.使用 Scikit-learn之python 模組訓練機器學習模型進行發電量預測  
 5.使用 matplotlib、plotly 等 python 繪圖套件進行數值可視化  
+
+**預測模式**
+隔日逐時預測
+當日提前1小時預測
+當日提前15分鐘預測
+
+
